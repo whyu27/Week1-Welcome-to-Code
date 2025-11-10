@@ -10,3 +10,5 @@ function shoutOut(){
 }
 
 console.log(shoutOut());
+
+// SOAL 1 DONE

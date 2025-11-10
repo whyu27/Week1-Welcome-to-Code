@@ -17,3 +17,5 @@ function processSentence(name, age, address, hobby){
 
 let fullSentence = processSentence(name, age, address, hobby);
 console.log(fullSentence); // Menampilkan "Nama saya Agus, umur saya 30 tahun, alamat saya di Jln. Malioboro, Yogjakarta, dan saya punya hobby yaitu gaming!"
+
+// SOAL 3 DONE

@@ -14,3 +14,5 @@ function calculateMultiply(num1, num2){
 
 let hasilPerkalian = calculateMultiply(num1,num2);
 console.log(`Hasil ${num1} * ${num2} = ${hasilPerkalian}`);
+
+// SOAL 2 DONE
