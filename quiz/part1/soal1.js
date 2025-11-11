@@ -60,6 +60,9 @@ else{
     else if(peran==="Penyihir"){
         console.log(`halo Penyihir ${nama} , ciptakan keajaiban yang membantu kemenanganmu!`);
     }
+    else{
+        console.log("Tapi kayaknya kamu jadi bot aja ya, peran yang kamu pilih ga ada.");
+    }
 }
 
 // SOAL PERTAMA SELESAI
